@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "author": "Hoang",
+    "description": "ChatGPT PRO Translate"
+  },
+  "data": [
+    {
+      "name": "ChatGPT PRO",
+      "author": "Hoang",
+      "version": 2,
+      "source": "https://openai.com",
+      "path": "https://raw.githubusercontent.com/pencakhia1234-cmd/vbook-ext2/main/vbook-chatgpt-pro.zip",
+      "icon": "",
+      "description": "Dịch truyện PRO",
+      "type": "translate",
+      "locale": "vi_VN",
+      "encrypt": false
+    }
+  ]
+}
