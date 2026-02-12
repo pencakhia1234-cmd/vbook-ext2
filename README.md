@@ -1,1 +1,0 @@
-# vbook-ext2
